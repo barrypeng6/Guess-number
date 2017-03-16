@@ -4,14 +4,12 @@ A simple game - Guess number（終極密碼）
 ## Demo
 [Demo](https://guess-number-d1f57.firebaseapp.com/)
 
-# usage
-
+## usage
 ```$ npm install```
 
 ```$ npm run dev```
 
-# build
-
+## build
 ```$ npm run build```
 
 

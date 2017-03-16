@@ -1,5 +1,6 @@
 # Guess-number
 A simple game - Guess number（終極密碼）
+React + flux
 
 ## Demo
 [Demo](https://guess-number-d1f57.firebaseapp.com/)
